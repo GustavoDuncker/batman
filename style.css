@@ -1,0 +1,113 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: rgb(247, 247, 4);
+    background-color: rgb(22, 20, 20);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    background-color: rgb(45, 45, 158);
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#icon{
+    width: 100px;
+    height: 52px;
+    margin-right: 10px;
+    display: flex;
+}
+#rodape{
+    padding: 10px;
+    background-color: rgb(165, 165, 165);
+    text-align: center;
+}
+.noticia{
+    background-color: rgb(29, 201, 201);
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(254, 255, 255);
+    text-align: center;
+    
+}
+#noticias{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: rgb(254, 255, 255);
+}
+.imagem_noticia{
+height: 400px;
+width: 430px;
+padding: 50px;
+text-align: center;
+}
+
+#viloes{
+    border-style: solid;
+    border-color: rgb(254, 255, 255);
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+.vilao{
+    background-color: rgb(201, 29, 29);
+
+    height: 400px;
+    width: 450px;
+    padding: 50px;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(254, 255, 255);
+}
+.vilao3{
+    height: 300px;
+    width: 450px;
+    padding: 0px;
+    text-align: center;
+    
+    border-color: rgb(254, 255, 255);
+}
+#aliados{
+   
+    border-style: solid;
+    border-color: rgb(254, 255, 255);
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.aliado{
+    background-color: rgb(139, 199, 142);
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(254, 255, 255);
+}
+.aliado1{
+    height: 400px;
+    width: 450px;
+    padding: 50px;
+    text-align: center;
+  
+}
+.aliado2{
+    height: 400px;
+    width: 450px;
+    padding: 50px;
+    text-align: center;
+    
+}
+
+.aliado3{
+    height: 400px;
+    width: 450px;
+    padding: 50px;
+    text-align: center;
+    
+}
